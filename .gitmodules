@@ -1,0 +1,6 @@
+[submodule "DistInc"]
+	path = DistInc
+	url = https://github.com/Jacorb90/DistInc.github.io
+[submodule "NG-plus-3C"]
+	path = NG-plus-3C
+	url = https://github.com/Jacorb90/NG-plus-3C
